@@ -21,7 +21,7 @@
 
 Hi! I'm **Shuayeb Hossain**, a passionate **Future Full Stack Developer** from Bangladesh 🇧🇩.
 
-- 🎓 Currently pursuing a **B.Sc in Computer Science & Engineering in Dhaka University**
+- 🎓 Currently pursuing a **B.Sc in Computer Science & Engineering at Dhaka University**
 - 💻 Building modern and responsive web applications
 - ⚛️ Working with **React, TypeScript, JavaScript & Tailwind CSS**
 - 🚀 Currently learning **Next.js, Node.js, Express.js & MongoDB**
