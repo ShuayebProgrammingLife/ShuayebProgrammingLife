@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="./banner/banner_with_photo.png" 
+    src="./banner_with_photo.png" 
     alt="Shuayeb Hossain - Future Full Stack Developer"
     width="100%"
   />
