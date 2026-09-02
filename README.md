@@ -126,7 +126,7 @@ I regularly practice programming problems to improve my:
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminulislamdev&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShuayebProgrammingLife&theme=tokyonight"
     width="100%"
     alt="GitHub Profile Summary"
   />
@@ -136,12 +136,12 @@ I regularly practice programming problems to improve my:
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminulislamdev&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShuayebProgrammingLife&theme=tokyonight"
     width="48%"
     alt="Top Languages by Repository"
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminulislamdev&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShuayebProgrammingLife&theme=tokyonight"
     width="48%"
     alt="Top Languages by Commit"
   />
