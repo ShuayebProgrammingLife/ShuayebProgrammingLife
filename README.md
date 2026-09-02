@@ -6,7 +6,7 @@
   />
 </p>
 
-<h1 align="center">Assalamu alaikum 👋, I'm MD. Shuayeb Hossain</h1>
+<h1 align="center">Assalamu alaikum 👋 I'm MD. Shuayeb Hossain</h1>
 
 <p align="center">
   <img 
